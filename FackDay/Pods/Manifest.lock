@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.9.0)
+  - Google-Mobile-Ads-SDK (11.0.1):
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - GoogleUserMessagingPlatform (2.2.0)
+  - MBProgressHUD (1.2.0)
+  - MiTu (1.0.7)
+  - Parchment (3.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Google-Mobile-Ads-SDK
+  - MBProgressHUD (~> 1.2.0)
+  - MiTu
+  - Parchment (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Google-Mobile-Ads-SDK
+    - GoogleUserMessagingPlatform
+    - MBProgressHUD
+    - MiTu
+    - Parchment
+
+SPEC CHECKSUMS:
+  Alamofire: 02b772c9910e8eba1a079227c32fbd9e46c90a24
+  Google-Mobile-Ads-SDK: 7a466427864972f5229f1f89d004b998a28ddcae
+  GoogleUserMessagingPlatform: d31dbfb40ec02c5d9683029815c5d5a7f46389ee
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MiTu: b77ecde2df9c547edc0195f67947476f3d0c2802
+  Parchment: 7678853fa5d28d38d31baaa466fa5d6ebaa6843c
+
+PODFILE CHECKSUM: ab9a4f199387c2eb2699a86d546f0ea59dd75121
+
+COCOAPODS: 1.13.0
